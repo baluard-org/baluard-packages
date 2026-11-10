@@ -1,5 +1,5 @@
 Types: deb
-URIs: https://baluard.app/repo
+URIs: https://packages.baluard.app
 Suites: stable
 Components: main
 Architectures: amd64
