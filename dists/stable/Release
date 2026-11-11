@@ -5,13 +5,13 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Baluard package repository
-Date: Tue, 10 Nov 2026 18:38:29 UTC
+Date: Wed, 11 Nov 2026 13:40:47 UTC
 MD5Sum:
- 2357eb0bcaa01a6feddb659cc31e9f22 1376 main/binary-amd64/Packages
- 1ca845e2f78da81c5f433af5e7274954 632 main/binary-amd64/Packages.gz
+ 0804fe8d96cc97ddc791b8eb6cff64da 1376 main/binary-amd64/Packages
+ b7a8d588064bbf13f1b74659e1f0c795 637 main/binary-amd64/Packages.gz
 SHA256:
- 9910aeb2e1ba121eef31601b404d6a4199ec84585f8da85c89ffd80bd6ce4f8e 1376 main/binary-amd64/Packages
- 3434d74a79a74f8518be72e814e409e400b1957d60e03cfd40ce4150c870371b 632 main/binary-amd64/Packages.gz
+ 33c225a01316ae8f47d5069322fe5637937f0f84b409ef78c53a47458a6caaf1 1376 main/binary-amd64/Packages
+ fae704f9f7ff9243e678a2913bfd6631aff17930055391a2f233da646d93b782 637 main/binary-amd64/Packages.gz
 SHA512:
- 3d9a47ed8acf876f806bab4f7112ded3f8b072a4ca0ff8ed3e7f011083314f4d75158f551fbcbbf729a49ab70eb196ccfa353f3a7258d66f37c663b18920794f 1376 main/binary-amd64/Packages
- 3cdb4cfab8dffd4b1fe36cf96c5106d5548e00425735ef869765acbe3679de22f825a54cfe30ff0c54f8dccd195a033d00f34e0cfbeb7261ee3b3ff857cd5ae5 632 main/binary-amd64/Packages.gz
+ a093783d7166d4ba18ff5ea66116137c4afd86bbc05e1d558b3952fae6578668c8313a7199be7c763fdb7b12396ea69e99bc5ed4335db8da8409f2e5fc50a8dc 1376 main/binary-amd64/Packages
+ fce9047ade1f59405b156178ca85d24eea5cc4beaaed129a489ff0a1b15d841652e59f8800df723ebc4764599f06d54cf49113e7b70dbd893d27e80dc294c2fe 637 main/binary-amd64/Packages.gz
