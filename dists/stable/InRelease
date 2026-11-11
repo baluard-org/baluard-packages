@@ -8,20 +8,20 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Baluard package repository
-Date: Wed, 11 Nov 2026 13:40:47 UTC
+Date: Wed, 11 Nov 2026 19:44:57 UTC
 MD5Sum:
- 0804fe8d96cc97ddc791b8eb6cff64da 1376 main/binary-amd64/Packages
- b7a8d588064bbf13f1b74659e1f0c795 637 main/binary-amd64/Packages.gz
+ 3a65f099289d99b5dc83ac1dac28325d 1376 main/binary-amd64/Packages
+ 58ccf4f64a9abceb6fe36ffa479422a5 626 main/binary-amd64/Packages.gz
 SHA256:
- 33c225a01316ae8f47d5069322fe5637937f0f84b409ef78c53a47458a6caaf1 1376 main/binary-amd64/Packages
- fae704f9f7ff9243e678a2913bfd6631aff17930055391a2f233da646d93b782 637 main/binary-amd64/Packages.gz
+ 3a79d2d537e98506d936baedcd617f087c04ecb09423287a6f0d3638f44525e7 1376 main/binary-amd64/Packages
+ 9f5336ddc8f833be89368ecacb7c8452054b5f0739b7085b6ce23a2348f2080f 626 main/binary-amd64/Packages.gz
 SHA512:
- a093783d7166d4ba18ff5ea66116137c4afd86bbc05e1d558b3952fae6578668c8313a7199be7c763fdb7b12396ea69e99bc5ed4335db8da8409f2e5fc50a8dc 1376 main/binary-amd64/Packages
- fce9047ade1f59405b156178ca85d24eea5cc4beaaed129a489ff0a1b15d841652e59f8800df723ebc4764599f06d54cf49113e7b70dbd893d27e80dc294c2fe 637 main/binary-amd64/Packages.gz
+ fff97b131b7ec38c28de9531cbd7015f5029d84257afbd1edd52fd0f3126e861d2e993e1a6ca4cc85ee193e01dcff7231697af89d93136cd1d91d893d8316190 1376 main/binary-amd64/Packages
+ 5a1494f4b7ea7c79e6985697e5064e21322d105b76928ac28270cfcb6256a00da89a0745e54707bc9a04f3b2ef46bfb945a9d1e2c8b5cd5e60dc256e8b2cfd71 626 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQiMxDqvxq2/ua93z4qUx1U5tdIBAUCavRwXwAKCRAqUx1U5tdI
-BHPGAP9WSBUuLj3cPYK3jMYF28+VA64WgLjWgo9wPxVJQXxUswEA0LjrloV7yt8L
-wzHjXwC10Xxgsuj2USoW/+nulEWtTwE=
-=Zboc
+iHUEARYKAB0WIQQiMxDqvxq2/ua93z4qUx1U5tdIBAUCavTFuQAKCRAqUx1U5tdI
+BDQ/APoChs3Zv7mPnWRAiF80LEGAu+cleztSH+jIwF8MfyFJDgEAgMYPx1RR4LWF
+lbTrOv+N9uIyLGAgUG/xki9wUHsqCwc=
+=7YyW
 -----END PGP SIGNATURE-----
