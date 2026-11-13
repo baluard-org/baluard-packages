@@ -1,20 +1,4 @@
 Package: baluard
-Version: 0.4.5
-Architecture: amd64
-Installed-Size: 54529
-Maintainer: EstebanForge
-Priority: optional
-Depends: libwebkit2gtk-4.1-0, libgtk-3-0t64, libayatana-appindicator3-1, libgit2-1.9, libssl3t64, libssh2-1, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Recommends: gnome-keyring, libu2f-udev
-Description: Baluard desktop app
- (none)
-Filename: pool/main/b/baluard/Baluard_0.4.5_amd64.deb
-Size: 20649436
-MD5sum: c0fd3407b403acd50590f5294373990e
-SHA256: 54139735a03372098275b853cfb3bc26ce3107a2f6f12f4da35fc60762389222
-SHA512: 65caff8a00c5371fe589fa9d7eee380a1c11e936e79017d6ec71c513b10dc780e41cbd304cd85ec02db0cceeee21691ac2eab95fdd6cf1678390fb3eb8a2f57e
-
-Package: baluard
 Version: 0.4.6
 Architecture: amd64
 Installed-Size: 50784
@@ -29,4 +13,20 @@ Size: 20210074
 MD5sum: 5ddd22c00c06ef31a0861cffdceda14a
 SHA256: 864e9420bda433297f6b1f478d583cb45feb93194945f61e68b4acab3ffbe0b1
 SHA512: 8d8a15cc6a43ea2befb9f36327934344fe4894f5166e0002ffc0161369ffedcb4db812c0f8de8d51ed078dd1154e7152e14b78828b8de886a1082b193445c8c5
+
+Package: baluard
+Version: 0.5.0
+Architecture: amd64
+Installed-Size: 50792
+Maintainer: EstebanForge
+Priority: optional
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0t64, libayatana-appindicator3-1, libgit2-1.9, libssl3t64, libssh2-1, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: gnome-keyring, libu2f-udev
+Description: Baluard desktop app
+ (none)
+Filename: pool/main/b/baluard/Baluard_0.5.0_amd64.deb
+Size: 20214548
+MD5sum: 7df92cd7874da2032b3bbaa0fc857e26
+SHA256: 1e0ed87ae8eac38efb6a3b3d375f0fb5445c700e2c6b8a8b4845f5afdd8c55ef
+SHA512: 4ec92bde6ab5525026d3fcdd42c05502ee9db66bb690cdf760e9fc0dc16a425d39a25be600bbb059343d6f0a35869060bae4165ffc3082715f3c6305a38bc9b0
 
