@@ -10,16 +10,13 @@ concurrency:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 jobs:
-  deploy:
+  # Upload and deploy live in separate jobs: deploy-pages in the same job
+  # intermittently fails to see the artifact it just uploaded (actions/deploy-pages#451).
+  build:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,6 +35,17 @@ jobs:
         with:
           path: /tmp/_site
           retention-days: 1
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v5
         with:
